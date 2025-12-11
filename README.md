@@ -29,11 +29,11 @@ Evaluation includes:
 
 
 ## Team Members
-- Hector: Literature Review  
+- Ivan: Literature Review  
 - WS: Data Preparation  
 - Zilong xu : Modeling  
 - Maty: Evaluation 
-- Ivan: Green AI & Presentation  
+- Hector: Green AI & Presentation  
 
 ##  Objective
 Produce:
